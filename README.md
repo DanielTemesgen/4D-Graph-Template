@@ -2,7 +2,7 @@
 
 Jupyter Notebook to graph summarised data 4 dimensionally.
 
-Originally inspired by the [Bokeh Crossfilter Example](https://demo.bokehplots.com/apps/crossfilter).
+Inspired by the [Bokeh Crossfilter Example](https://demo.bokehplots.com/apps/crossfilter).
 
 The template works best with the anaconda python distribution.
 
