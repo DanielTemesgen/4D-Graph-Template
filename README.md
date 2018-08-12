@@ -1,10 +1,12 @@
 # 4D Graph Template
 
+### What
 Jupyter Notebook to graph summarised data 4 dimensionally.
-
 Inspired by the [Bokeh Crossfilter Example](https://demo.bokehplots.com/apps/crossfilter).
 
+### How
 The template works best with the anaconda python distribution.
+To copy the exact environment used to create this, create a conda environment from the yaml file
 
 ### Getting Started
 
@@ -27,7 +29,7 @@ The template works best with the anaconda python distribution.
 
    ![Tooltip](https://user-images.githubusercontent.com/40549299/43491502-c713e1a2-951c-11e8-8561-4c9808191750.png)
 
-##### Tips
+### Tips
 
 * Ensure each unique variable in the data is a column.
     *  This is especially important for time-series data.
