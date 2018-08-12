@@ -6,7 +6,7 @@ Inspired by the [Bokeh Crossfilter Example](https://demo.bokehplots.com/apps/cro
 
 The template works best with the anaconda python distribution.
 
-##### Getting Started
+### Getting Started
 
 1. Once opened, enter the location of the the csv you'd like to visualise.
 
