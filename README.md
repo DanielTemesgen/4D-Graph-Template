@@ -6,7 +6,7 @@ Inspired by the [Bokeh Crossfilter Example](https://demo.bokehplots.com/apps/cro
 
 ### How
 The template works best with the anaconda python distribution.<br>
-To copy the exact environment used to create this, create a conda environment from the yaml file in this repo. <br>
+To copy the exact environment used to create this, create a conda environment from the yml file in this repo. <br>
 Click [here](https://conda.io/docs/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file) for a how-to.
 
 ### Getting Started
