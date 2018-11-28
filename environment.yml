@@ -3,9 +3,9 @@ channels:
   - defaults
 dependencies:
   - bokeh=0.13.0
-  - ipython=6.5.0
-  - ipywidgets=7.3.1
-  - numpy=1.15.0
-  - pandas=0.23.3
-  - python=3.6.6
+  - ipywidgets
+  - numpy
+  - pandas
+  - scikit-learn
+  - python
 
