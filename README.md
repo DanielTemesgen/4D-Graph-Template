@@ -37,6 +37,7 @@ Click [here](https://conda.io/docs/user-guide/tasks/manage-environments.html#cre
 
 ### Backlog
 
+- Add a **Binder** for this
 - Add log scale option
 - File import wizard
   - Not currently possible.
